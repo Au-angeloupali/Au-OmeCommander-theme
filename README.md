@@ -10,5 +10,5 @@ Theme created for a clean, linear development environment. Some elements still d
 - Context menu border
 - Context menu background alpha
 
-Bug
+Bug: 
 The second level of the Context menù have a tasparent background.
