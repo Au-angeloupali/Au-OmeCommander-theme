@@ -12,3 +12,5 @@ Theme created for a clean, linear development environment. Some elements still d
 
 Bug: 
 The second level of the Context menù have a tasparent background.
+
+![Thumbnail](https://github.com/Au-angeloupali/Au-OmeCommander-theme/assets/118266752/513d4015-11fa-4a96-9e8a-2fa076b98889)
