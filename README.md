@@ -1,4 +1,4 @@
-# Au-OmeCommander-theme
+# Au-OneCommander-theme
 Clear and clean theme for OneCommander
 
 V 1.0
